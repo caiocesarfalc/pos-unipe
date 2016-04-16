@@ -1,1 +1,1 @@
-Projeto de GC para aula na pós em Desenvolvimento WEB no UNIPE.
+Projeto de Gerencia de Configuracao para aula na pos em Desenvolvimento WEB no UNIPE.
